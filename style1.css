@@ -1,0 +1,14 @@
+body {
+
+background-image: url(photo1.jpg) ;
+ background-size:cover;
+}
+
+img {
+  padding: 50px;
+  width: 400px;
+}
+
+ul {  
+list-style-position:inside;
+}
